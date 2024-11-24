@@ -14,10 +14,6 @@
         <img src="https://img.shields.io/github/v/release/RuneCE/Ryujinx-Ungay"
             alt="Latest Release">
     </a>
-  <br>
-    <a href="https://github.com/RuneCE/Ryujinx-Ungay/actions/workflows/canary.yml">
-        <img src="https://github.com/RuneCE/Ryujinx-Ungay/actions/workflows/canary.yml/badge.svg"
-            alt="">
 </h1>
 
 <p align="center">
