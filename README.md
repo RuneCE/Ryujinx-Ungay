@@ -1,19 +1,19 @@
 <table align="center">
     <tr>
         <td align="center" width="25%">
-            <img src="https://raw.githubusercontent.com/GreemDev/ryuassets/refs/heads/main/RyujinxApp_1024.png" alt="Ryujinx" >
+            <img src="https://raw.githubusercontent.com/RuneCE/Ryujinx-Ungay/refs/heads/master/src/Ryujinx.UI.Common/Resources/Logo_Ryujinx.png" alt="Ryujinx" >
         </td>
         <td align="center" width="75%">
           
 # Ryujinx
           
-[![Release workflow](https://github.com/GreemDev/Ryujinx/actions/workflows/release.yml/badge.svg)](https://github.com/GreemDev/Ryujinx/actions/workflows/release.yml)
-[![Latest release](https://img.shields.io/github/v/release/GreemDev/Ryujinx)](https://github.com/GreemDev/Ryujinx/releases/latest)
+[![Release workflow](https://github.com/RuneCE/Ryujinx-Ungay/actions/workflows/release.yml/badge.svg)](https://github.com/RuneCE/Ryujinx-Ungay/actions/workflows/release.yml)
+[![Latest release](https://img.shields.io/github/v/release/RuneCE/Ryujinx-Ungay)](https://github.com/RuneCE/Ryujinx-Ungay/releases/latest)
   <br>
-[![Canary workflow](https://github.com/GreemDev/Ryujinx/actions/workflows/canary.yml/badge.svg)](https://github.com/GreemDev/Ryujinx/actions/workflows/canary.yml)
+<!--[![Canary workflow](https://github.com/GreemDev/Ryujinx/actions/workflows/canary.yml/badge.svg)](https://github.com/GreemDev/Ryujinx/actions/workflows/canary.yml)
 [![Latest canary release](https://img.shields.io/github/v/release/GreemDev/Ryujinx-Canary?label=canary)](https://github.com/GreemDev/Ryujinx-Canary/releases/latest)
         </td>
-    </tr>
+    </tr>-->
 </table>
 
 <p align="center">
@@ -30,7 +30,7 @@
   <br>
   This is not a Ryujinx revival project. This is not a Phoenix project.
   <br>
-  Guides and documentation can be found on the <a href="https://github.com/GreemDev/Ryujinx/wiki">Wiki tab</a>.
+  Guides and documentation can be found on the <a href="https://github.com/RuneCE/Ryujinx-Ungay/wiki">Wiki tab</a>.
 </p>
 <p align="center">
   If you would like a more preservative fork of Ryujinx, check out <a href="https://github.com/ryujinx-mirror/ryujinx">ryujinx-mirror</a>.
@@ -44,7 +44,7 @@
     </a>
     <br>
     <br>
-    <img src="https://raw.githubusercontent.com/GreemDev/Ryujinx/refs/heads/master/docs/shell.png">
+    <img src="https://raw.githubusercontent.com/RuneCE/Ryujinx-Ungay/refs/heads/master/docs/shell.png">
 </p>
 
 ## Usage
@@ -57,13 +57,13 @@ failing to meet this requirement may result in a poor gameplay experience or une
 Stable builds are made every so often onto a separate "release" branch that then gets put into the releases you know and love. 
 These stable builds exist so that the end user can get a more **enjoyable and stable experience**.
 
-You can find the latest stable release [here](https://github.com/GreemDev/Ryujinx/releases/latest).
+You can find the latest stable release [here](https://github.com/RuneCE/Ryujinx-Ungay/releases/latest).
 
-Canary builds are compiled automatically for each commit on the master branch.
+<!--Canary builds are compiled automatically for each commit on the master branch.
 While we strive to ensure optimal stability and performance prior to pushing an update, these builds **may be unstable or completely broken**.
 These canary builds are only recommended for experienced users.
 
-You can find the latest canary release [here](https://github.com/GreemDev/Ryujinx-Canary/releases/latest).
+You can find the latest canary release [here](https://github.com/GreemDev/Ryujinx-Canary/releases/latest).-->
 
 ## Documentation
 

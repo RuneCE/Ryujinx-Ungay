@@ -74,7 +74,7 @@ We use and recommend the following workflow:
 3. In your fork, create a branch off of main (`git checkout -b mybranch`).
     - Branches are useful since they isolate your changes from incoming changes from upstream. They also enable you to create multiple PRs from the same fork.
 4. Make and commit your changes to your branch.
-    - [Build Instructions](https://github.com/GreemDev/Ryujinx/blob/master/COMPILING.md) explains how to build and test.
+    - [Build Instructions](https://github.com/RuneCE/Ryujinx-Ungay/blob/master/COMPILING.md) explains how to build and test.
     - Commit messages should be clear statements of action and intent.
 6. Build the repository with your changes.
     - Make sure that the builds are clean.
@@ -113,7 +113,7 @@ Also do your best to factor commits appropriately, not too large with unrelated 
 
 ### PR - CI Process
 
-The [Ryujinx continuous integration](https://github.com/GreemDev/Ryujinx/actions) (CI) system will automatically perform the required builds and run tests (including the ones you are expected to run) for PRs. Builds and test runs must be clean or have bugs properly filed against flaky/unexpected failures that are unrelated to your change.
+The [Ryujinx continuous integration](https://github.com/RuneCE/Ryujinx-Ungay/actions) (CI) system will automatically perform the required builds and run tests (including the ones you are expected to run) for PRs. Builds and test runs must be clean or have bugs properly filed against flaky/unexpected failures that are unrelated to your change.
 
 If the CI build fails for any reason, the PR actions tab should be consulted for further information on the failure. There are a few usual suspects for such a failure:
 * `dotnet format` has not been run on the PR and has outstanding stylistic issues.
