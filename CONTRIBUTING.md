@@ -81,7 +81,7 @@ We use and recommend the following workflow:
     - Make sure that `dotnet format` has been run and any corrections tested and committed.
 7. Create a pull request (PR) against the Ryujinx/Ryujinx repository's **main** branch.
     - State in the description what issue or improvement your change is addressing.
-    - Check if all the Continuous Integration checks are passing. Refer to [Actions](https://github.com/GreemDev/Ryujinx/actions) to check for outstanding errors.
+    - Check if all the Continuous Integration checks are passing. Refer to [Actions](https://github.com/RuneCE/Ryujinx-Ungay/actions) to check for outstanding errors.
 8. Wait for feedback or approval of your changes from the core development team
     - Details about the pull request [review procedure](docs/workflow/pr-guide.md).
 9. When the team members have signed off, and all checks are green, your PR will be merged.
@@ -113,7 +113,7 @@ Also do your best to factor commits appropriately, not too large with unrelated 
 
 ### PR - CI Process
 
-The [Ryujinx continuous integration](https://github.com/GreemDev/Ryujinx/actions) (CI) system will automatically perform the required builds and run tests (including the ones you are expected to run) for PRs. Builds and test runs must be clean or have bugs properly filed against flaky/unexpected failures that are unrelated to your change.
+The [Ryujinx continuous integration](https://github.com/RuneCE/Ryujinx-Ungay/actions) (CI) system will automatically perform the required builds and run tests (including the ones you are expected to run) for PRs. Builds and test runs must be clean or have bugs properly filed against flaky/unexpected failures that are unrelated to your change.
 
 If the CI build fails for any reason, the PR actions tab should be consulted for further information on the failure. There are a few usual suspects for such a failure:
 * `dotnet format` has not been run on the PR and has outstanding stylistic issues.
