@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-    Click below to join the Discord:
+    Click below to join their Discord (caution):
     <br>
     <a href="https://discord.gg/dHPrkBkkyA">
         <img src="https://img.shields.io/discord/1294443224030511104?color=5865F2&label=Ryubing&logo=discord&logoColor=white" alt="Discord">
